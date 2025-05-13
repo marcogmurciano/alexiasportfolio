@@ -1,0 +1,63 @@
+{
+	"state": {
+	  "counter": 0,
+	  "arrayDesign": [
+		{
+		  "id": 0,
+		  "title": "IDENTIDAD MUTANTE",
+		  "tags": "EXPOSICIÓN, ARCHIVO Y EDITORIAL",
+		  "description": "Publicación vinculada a un espacio donde personas migrantes comparten símbolos de su historia para construir una memoria colectiva. La propuesta funciona como un archivo mutante: se recopilan materiales físicos, se exponen temporalmente y luego se digitalizan, dando forma a una publicación. Cada tipo de memoria recibe un tratamiento visual específico: detenida (material original), perdida (distorsión con pixel sorting) y adaptada (alteración creativa del material).",
+		  "pictures": [
+			"projects/11.png",
+			"projects/12.png",
+			"projects/13.jpeg",
+			"projects/14.jpeg"
+		  ],
+		  "link": "",
+		  "date": "2025"
+		},
+		{
+			"id": 1,
+			"title": "IDENTS",
+			"tags": "PACKAGING Y DIRECIÓN DE ARTE",
+			"description": "Este rediseño para la línea de productos lácteos Hacendado plantea un packaging claro, directo y comprometido. Cada envase incluye el identificador de la vaca de origen, abriendo un diálogo sobre sostenibilidad, trazabilidad y confianza.La diferenciación entre productos se representa a través de un código cromático basado en la proporción de materia grasa: vacas blancas, mixtas o negras.",
+			"pictures": [
+				"projects/21.png",
+				"projects/22.jpg",
+				"projects/23.png",
+				"projects/24.png"
+			],
+			"link": "",
+			"date": "2024"
+		  },
+		  {
+			"id": 2,
+			"title": "FRANKENSTEIN",
+			"tags": "EDITORIAL y DIRECCIÓN DE ARTE",
+			"description": "Rediseño contemporáneo de Frankenstein de Mary Shelley, como parte de una colección comisariada de clásicos. El proyecto reestructura la narrativa mediante una jerarquía de textos clara y una maquetación inspirada en el ritmo y el orden del manuscrito original. Cada personaje se traduce a un código visual, cuyas cualidades formales se trasladan al diseño de página, estableciendo una narrativa gráfica paralela.",
+			"pictures": [
+				"projects/31.gif",
+				"projects/32.jpg",
+				"projects/33.jpg",
+				"projects/34.jpg"
+			],
+			"link": "https://www.youtube.com/watch?v=ABfQuZqq8wg",
+			"date": "2023"
+		  },
+		  {
+			"id": 3,
+			"title": "GABARRERA",
+			"tags": "BRANDING, PACKAGING E ILLUSTRACIÓN",
+			"description": "Gabarrera es una cervecera artesanal de Madrid con fuerte conexión al entorno natural. El rediseño de etiquetas refleja esa identidad mediante ilustraciones de fauna autóctona y una paleta basada en pigmentos naturales.Cada variedad se asocia con un animal y una gama cromática relacionada con su hábitat local: bosque, río o montaña.",
+			"pictures": [
+				"projects/41.png",
+				"projects/42.jpg",
+				"projects/43.jpg",
+				"projects/44.jpg"
+			],
+			"link": "https://www.youtube.com/watch?v=ABfQuZqq8wg",
+			"date": "2024"
+		  }
+	  ]
+	}
+}

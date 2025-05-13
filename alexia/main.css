@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+/* *{
+    border: tomato 1px solid;
+} */
+
+ h3{
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    font-size: 28px;
+ }
+
+ .bodylarge{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+ }
+
+ .bodysmall{
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+ }
+
+ .projecttags{
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+ }
+
+ .date{
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-size: 100px;
+ }
+
+ .bold{
+   font-weight: 600;
+ }

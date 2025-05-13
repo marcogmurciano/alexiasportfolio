@@ -1,0 +1,28 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "clean": "rm -rf node_modules"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "@types/node": "^22",
+    "nuxt": "^3.17.3"
+  },
+  "dependencies": {
+    "@phosphor-icons/vue": "^2.2.1",
+    "gsap": "^3.13.0",
+    "html-to-image": "^1.11.13",
+    "html2canvas": "^1.4.1",
+    "p5": "^2.0.1",
+    "sass": "^1.88.0"
+  },
+  "overrides": {
+    "minimatch": "7.4.6"
+  }
+}
